@@ -2,9 +2,6 @@
 
 #### My name is Mert ÇIRPANLI. I am a freelance full stack developer living in Bursa, Turkey. 🥐
 
-![ninja squad profil picture](https://pbs.twimg.com/profile_images/1521817331214790658/EtvFQbl5_200x200.jpg)
-
-
 - 🌱 Learning all about **Open Source**
 
 ## 🛠  Technologies and tools
