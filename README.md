@@ -1,12 +1,8 @@
 # Hey there, I'm Mert!
 
-First off, thanks for checking out my GitHub profile! I'm a software engineer with a passion for developing cutting-edge apps and solutions that make a difference in people's lives.
+First off, thanks for checking out my GitHub profile! I’m a software engineer with a passion for developing cutting-edge apps and solutions that make a difference in people’s lives. I studied computer engineering and business administration, which gave me a unique perspective on how technology and business intersect. I also pursued an associate degree in computer programming, which really helped me hone my skills in coding. As a skilled software engineer, I specialize in designing, developing, and maintaining a wide range of software applications. I am passionate about both creating and teaching, and I thrive in dynamic environments where I can use my problem-solving skills and love for technology to deliver innovative solutions. Highly detail-oriented, I am always looking for new challenges and opportunities to grow and learn in my career.
 
-I studied computer engineering and business administration, which gave me a unique perspective on how technology and business intersect, also i went on to pursue an associate degree in computer programming, which really helped me hone my skills in coding.
-
-Aside from my work, I'm a big fan of the outdoors. I love hiking and exploring new trails whenever I can. When I'm not out in nature, you can usually find me in the kitchen experimenting with new recipes. Cooking is a great way to unwind after a long day of coding!
-
-I'm always striving to learn and grow as a software engineer. I believe that continuous improvement is key to staying at the top of your game in this field. If you're interested in collaborating on a project or just want to chat about tech, feel free to reach out. I'd love to hear from you!
+Feel free to explore my projects below and reach out if you have any questions or collaboration ideas!
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
